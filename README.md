@@ -47,10 +47,11 @@
 
 
 
-## Output:![Screenshot 2024-10-19 135613](https://github.com/user-attachments/assets/c70e8efd-2bfd-4546-8729-d13b3e1bf5a8)
+## Output:
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/2d679269-c3c3-4097-91df-bf39487241f8)
 
+![Screenshot (10)](https://github.com/user-attachments/assets/e3cbfa3e-9cd9-4083-98cc-7feddf1f22fd)
 
 ### Name: Monish kumar N
 ### Register Number: 24012059
